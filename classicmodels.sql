@@ -18,6 +18,7 @@
 --
 -- Table structure for table `customers`
 --
+DROP DATABASE IF EXISTS classicmodels;
 CREATE DATABASE /*!32312 IF NOT EXISTS*/`classicmodels` /*!40100 DEFAULT CHARACTER SET latin1 */;
 
 USE `classicmodels`;
